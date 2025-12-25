@@ -1,0 +1,35 @@
+{
+  "sr": {
+    "name": "Skitetsky REMASTER",
+    "description": "Главная супер-мега-треш-новелла, которую сваял BERGEN. Объяснять долго, пиздуй скачивать эту хуйню, блеать!",
+    "screenshoots": [
+      "https://raw.githubusercontent.com/Skeet-Dynasty/ota/refs/heads/main/screenshots/sr/sr_01.png",
+      "https://raw.githubusercontent.com/Skeet-Dynasty/ota/refs/heads/main/screenshots/sr/sr_02.png",
+      "https://raw.githubusercontent.com/Skeet-Dynasty/ota/refs/heads/main/screenshots/sr/sr_03.png",
+      "https://raw.githubusercontent.com/Skeet-Dynasty/ota/refs/heads/main/screenshots/sr/sr_04.png",
+      "https://raw.githubusercontent.com/Skeet-Dynasty/ota/refs/heads/main/screenshots/sr/sr_05.png",
+      "https://raw.githubusercontent.com/Skeet-Dynasty/ota/refs/heads/main/screenshots/sr/sr_06.png"
+    ],
+    "download": "https://dl.skeetdynasty.ru/SR.zip",
+    "exec": "test.exe",
+    "downloadAPK": "https://dl.skeetdynasty.ru/SR.apk",
+    "execAPK": "ru.skeetdynasty.sr",
+    "version": "1.0",
+    "changelog": "Пока нихуя нового нет"
+  },
+  "od": {
+    "name": "Overlord Diary",
+    "description": "Полный пиздец? Да! Ебейше увлекательный и ржачный рассказ про Данилу Кондрашова Оверлорда. Играй и смотри не обосрись от ржекичей, епт",
+    "screenshoots": [
+      "https://raw.githubusercontent.com/Skeet-Dynasty/ota/refs/heads/main/screenshots/od/od_01.png",
+      "https://raw.githubusercontent.com/Skeet-Dynasty/ota/refs/heads/main/screenshots/od/od_02.png",
+      "https://raw.githubusercontent.com/Skeet-Dynasty/ota/refs/heads/main/screenshots/od/od_03.png"
+    ],
+    "download": "https://dl.skeetdynasty.ru/OD.zip",
+    "exec": "test.exe",
+    "downloadAPK": "https://dl.skeetdynasty.ru/OD.apk",
+    "execAPK": "ru.skeetdynasty.od",
+    "version": "1.0",
+    "changelog": "Пока нихуя нового нет"
+  }
+}
