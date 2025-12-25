@@ -1,0 +1,16 @@
+{
+    "sr":
+    {
+        "name": "Skitetsky REMASTER",
+        "description": "Тестовый description, тут очень много текста, очень козырного, дадая написсааааал эту срань",
+        "screenshoots": ["https://test.com/screen1.png", "https://test.com/screen2.png"],
+        "download": "https://test.com/SkeetRemaster.zip"
+    },
+    "od":
+    {
+        "name": "Overlord Diary",
+        "description": "Тестовый description, тут очень много текста, очень козырного, дадая написсааааал эту срань",
+        "screenshoots": ["https://test.com/screen3.png", "https://test.com/screen4.png"],
+        "download": "https://test.com/OD.zip"
+    }
+}
