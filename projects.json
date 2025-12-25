@@ -3,14 +3,14 @@
     {
         "name": "Skitetsky REMASTER",
         "description": "Тестовый description, тут очень много текста, очень козырного, дадая написсааааал эту срань",
-        "screenshoots": ["https://gala-cat.ru/_nw/1/60257453.jpg", "https://cdn.e-pet.com.ua/uploaded/2025/8/17/9/IMG_6167-vNmrRKqP.jpg"],
+        "screenshoots": ["https://raw.githubusercontent.com/Skeet-Dynasty/ota/refs/heads/main/kassa.png", "https://raw.githubusercontent.com/Skeet-Dynasty/ota/refs/heads/main/kassa.png"],
         "download": "https://test.com/SkeetRemaster.zip"
     },
     "od":
     {
         "name": "Overlord Diary",
         "description": "Тестовый description, тут очень много текста, очень козырного, дадая написсааааал эту срань",
-        "screenshoots": ["https://img.freepik.com/free-photo/cute-cat-spending-time-indoors_23-2150649172.jpg?semt=ais_hybrid&w=740&q=80", "https://cdn.e-pet.com.ua/uploaded/2025/8/17/9/IMG_6167-vNmrRKqP.jpg"],
+        "screenshoots": ["https://raw.githubusercontent.com/Skeet-Dynasty/ota/refs/heads/main/kassa.png", "https://raw.githubusercontent.com/Skeet-Dynasty/ota/refs/heads/main/kassa.png"],
         "download": "https://test.com/OD.zip"
     }
 }
