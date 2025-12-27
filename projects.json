@@ -17,8 +17,8 @@
     "exec": "DmitryDiary.exe",
     "downloadAPK": "https://github.com/Skeet-Dynasty/ota/releases/download/1.0/DD.apk",
     "execAPK": "ru.skeetdynasty.dd",
-    "version": "1.1",
-    "changelog": "Версия с новым движком и костылём для старых багов"
+    "version": "1.2",
+    "changelog": "Костыли для старых багов"
   },
   "sr": {
     "name": "Skitetsky REMASTER",
