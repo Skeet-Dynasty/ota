@@ -1,4 +1,25 @@
 {
+  "dd": {
+    "name": "Dmitry Diary",
+    "description": "Привет из 2022. Это максимально кривая, убогая, короткая, но в то же время - самая ламповая и ностальгичная для нас. Я не мог не залить её сюда. 6 концовок, куча смехуёчков, и целое море веселья!",
+    "screenshoots": [
+      "https://raw.githubusercontent.com/Skeet-Dynasty/ota/refs/heads/main/screenshots/dd/dd_1.png",
+      "https://raw.githubusercontent.com/Skeet-Dynasty/ota/refs/heads/main/screenshots/dd/dd_2.png",
+      "https://raw.githubusercontent.com/Skeet-Dynasty/ota/refs/heads/main/screenshots/dd/dd_3.png",
+      "https://raw.githubusercontent.com/Skeet-Dynasty/ota/refs/heads/main/screenshots/dd/dd_4.png",
+      "https://raw.githubusercontent.com/Skeet-Dynasty/ota/refs/heads/main/screenshots/dd/dd_5.png",
+      "https://raw.githubusercontent.com/Skeet-Dynasty/ota/refs/heads/main/screenshots/dd/dd_6.png",
+      "https://raw.githubusercontent.com/Skeet-Dynasty/ota/refs/heads/main/screenshots/dd/dd_7.png",
+      "https://raw.githubusercontent.com/Skeet-Dynasty/ota/refs/heads/main/screenshots/dd/dd_8.png",
+      "https://raw.githubusercontent.com/Skeet-Dynasty/ota/refs/heads/main/screenshots/dd/dd_9.png"
+    ],
+    "download": "https://github.com/Skeet-Dynasty/ota/releases/download/1.0/DD.zip",
+    "exec": "DmitryDiary.exe",
+    "downloadAPK": "https://github.com/Skeet-Dynasty/ota/releases/download/1.0/DD.apk",
+    "execAPK": "ru.skeetdynasty.dd",
+    "version": "1.1",
+    "changelog": "Версия с новым движком и костылём для старых багов"
+  },
   "sr": {
     "name": "Skitetsky REMASTER",
     "description": "Главная супер-мега-треш-новелла, которую сваял BERGEN. Объяснять долго, пиздуй скачивать эту хуйню, блеать!",
@@ -12,14 +33,14 @@
     ],
     "download": "https://github.com/Skeet-Dynasty/ota/releases/download/1.0/SR.zip",
     "exec": "SkeetRemaster.exe",
-    "downloadAPK": "https://dl.skeetdynasty.ru/SR.apk",
+    "downloadAPK": "https://github.com/Skeet-Dynasty/ota/releases/download/1.0/SR.apk",
     "execAPK": "ru.skeetdynasty.sr",
     "version": "1.0",
     "changelog": "Релизная версия"
   },
   "od": {
     "name": "Overlord Diary",
-    "description": "Полный пиздец? Да! Ебейше увлекательный и ржачный рассказ про Данилу Кондрашова Оверлорда. Играй и смотри не обосрись от ржекичей, епт",
+    "description": "Полный пиздец? Да! Ебейше увлекательный и ржачный рассказ про Данилу Кондрашова Оверлорда. Играй и смотри не обосрись от ржекичей, епт.",
     "screenshoots": [
       "https://raw.githubusercontent.com/Skeet-Dynasty/ota/refs/heads/main/screenshots/od/od_01.png",
       "https://raw.githubusercontent.com/Skeet-Dynasty/ota/refs/heads/main/screenshots/od/od_02.png",
