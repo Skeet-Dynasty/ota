@@ -13,7 +13,7 @@
       "https://raw.githubusercontent.com/Skeet-Dynasty/ota/refs/heads/main/screenshots/dd/dd_8.png",
       "https://raw.githubusercontent.com/Skeet-Dynasty/ota/refs/heads/main/screenshots/dd/dd_9.png"
     ],
-    "download": "https://github.com/Skeet-Dynasty/ota/releases/download/1.0/DD.zip",
+    "download": "https://dl.skeetdynasty.ru/uploads/DD.zip",
     "exec": "DmitryDiary.exe",
     "downloadAPK": "https://github.com/Skeet-Dynasty/ota/releases/download/1.0/DD.apk",
     "execAPK": "ru.skeetdynasty.dd",
