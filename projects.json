@@ -31,7 +31,7 @@
       "https://raw.githubusercontent.com/Skeet-Dynasty/ota/refs/heads/main/screenshots/sr/sr_05.png",
       "https://raw.githubusercontent.com/Skeet-Dynasty/ota/refs/heads/main/screenshots/sr/sr_06.png"
     ],
-    "download": "https://github.com/Skeet-Dynasty/ota/releases/download/1.0/SR.zip",
+    "download": "https://dl.skeetdynasty.ru/uploads/SR.zip",
     "exec": "SkeetRemaster.exe",
     "downloadAPK": "https://github.com/Skeet-Dynasty/ota/releases/download/1.0/SR.apk",
     "execAPK": "ru.skeetdynasty.sr",
