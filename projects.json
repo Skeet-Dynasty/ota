@@ -10,12 +10,12 @@
       "https://raw.githubusercontent.com/Skeet-Dynasty/ota/refs/heads/main/screenshots/sr/sr_05.png",
       "https://raw.githubusercontent.com/Skeet-Dynasty/ota/refs/heads/main/screenshots/sr/sr_06.png"
     ],
-    "download": "https://dl.skeetdynasty.ru/SR.zip",
-    "exec": "test.exe",
+    "download": "https://github.com/Skeet-Dynasty/ota/releases/download/1.0/SR.zip",
+    "exec": "SkeetRemaster.exe",
     "downloadAPK": "https://dl.skeetdynasty.ru/SR.apk",
     "execAPK": "ru.skeetdynasty.sr",
     "version": "1.0",
-    "changelog": "Пока нихуя нового нет"
+    "changelog": "Релизная версия"
   },
   "od": {
     "name": "Overlord Diary",
