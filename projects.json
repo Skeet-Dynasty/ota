@@ -15,7 +15,7 @@
     ],
     "download": "https://dl.skeetdynasty.ru/uploads/DD.zip",
     "exec": "DmitryDiary.exe",
-    "downloadAPK": "https://github.com/Skeet-Dynasty/ota/releases/download/1.0/DD.apk",
+    "downloadAPK": "https://dl.skeetdynasty.ru/uploads/DD.apk",
     "execAPK": "ru.skeetdynasty.dd",
     "version": "1.2",
     "changelog": "Костыли для старых багов"
